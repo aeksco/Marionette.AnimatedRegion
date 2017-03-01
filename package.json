@@ -1,7 +1,7 @@
 {
-  "name": "hn_breadcrumb",
+  "name": "Marionette.AnimatedRegion",
   "version": "0.0.1",
-  "description": "Breadcrumb Component",
+  "description": "Animated Marionette.Region",
   "browserify": {
     "transform": [
       "coffeeify",
